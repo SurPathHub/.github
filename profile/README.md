@@ -9,3 +9,7 @@ Navigate to [SurPath Hub's Milestone](https://github.com/orgs/SurPathHub/project
 ### Note
 Anyone can help improve our projects, but only those residing in the Philippines are encouraged to [join](https://github.com/SurPathHub/support#guide) our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
 
+### 2022 Event Plan
+- #100DaysOfCode
+- Hacktoberfest Philippines
+- GitHub Field Day
