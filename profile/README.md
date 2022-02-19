@@ -9,12 +9,12 @@
 
 ## About us
 
-An organization that aims to put every Filipino student, career shifter, or aspiring developer into an open-source environment regardless of their position in life and receive equal treatment.
+An organization that aims to put every Asia student, career shifter, or aspiring developer into an open-source environment regardless of their position in life and receive equal treatment.
 
 Navigate to [SurPath Hub's Milestone](https://github.com/orgs/SurPathHub/projects).
 
 ### Note
-Anyone can help improve our projects, but only those residing in the Philippines are encouraged to [join](https://github.com/SurPathHub/support#guide) our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
+Anyone can help improve our projects, but only those residing in the Asia region are encouraged to [join](https://github.com/SurPathHub/support#guide) our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
 
 ### 2022 Event Plan
 - #100DaysOfCode
