@@ -19,4 +19,5 @@ Anyone can help improve our projects, but only those residing in the Asia region
 ### 2022 Event Plan
 - #100DaysOfCode
 - Hacktoberfest Philippines
-- GitHub Field Day
+- GitHub Field Day Philippines
+
